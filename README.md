@@ -1,7 +1,7 @@
 # CSE 4454 — Digital Image Processing
 
 ## Lab Experiment 01
-### Short Lab Assignment — Question 25
+# Lab Assignment — Question 25
 
 ## Student Information
 
