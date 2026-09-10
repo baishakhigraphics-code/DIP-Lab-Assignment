@@ -3,18 +3,11 @@
 ## Lab Experiment 01
 # Lab Assignment — Question 25
 
-## Student Information
-
-- **Batch No.:** 28th
-- **ID No.:** 0592310205101004
-- **Name:** Baishakhi
-
 ## Objective
 
 To perform basic image processing operations using Python, OpenCV, and Matplotlib.
 
 ## Operations
-
 1. Read and display the image
 2. Print image dimensions
 3. Find pixel value at `(100,100)`
@@ -40,9 +33,5 @@ To perform basic image processing operations using Python, OpenCV, and Matplotli
 - `cropped_output.jpg` — Cropped image
 
 ## Result
-
 All required image processing operations were successfully performed.
 
-## GitHub Repository
-
-https://github.com/baishakhigraphics-code/DIP-Lab-Assignment
